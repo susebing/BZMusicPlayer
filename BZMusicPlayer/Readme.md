@@ -22,7 +22,3 @@
 
 # 项目结构图
 ![项目详解图](http://images2015.cnblogs.com/blog/495676/201701/495676-20170118172346703-1383990152.png)
-
-
-# [Demo 源码下载](https://pan.baidu.com/s/1eRBCqTc)
-	密码: 4aes
