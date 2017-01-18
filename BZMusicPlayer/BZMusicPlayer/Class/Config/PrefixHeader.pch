@@ -1,0 +1,32 @@
+//
+//  PrefixHeader.pch
+//  BZMusicPlayer
+//
+//  Created by zhengbing on 2017/1/17.
+//  Copyright © 2017年 zhengbing. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+/*
+    一定要注意配置 pch 路径!
+ */
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+// 适配文件
+#import "Adaption.h"
+#import "Defines.h"
+#import "UIView+Extension.h"
+#import "NSString+Time.h"
+#import "Colours.h"
+
+// 数据 Model 管理员
+#import "BZMusicManager.h"
+#import "BZAudioManager.h"
+
+
+#import "BZSysButton.h"
+
+#endif /* PrefixHeader_pch */
